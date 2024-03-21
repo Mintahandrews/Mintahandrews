@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Mintahandrews/portfolio/blob/main/assets/profile-pic.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/Mintahandrews/portfolio/blob/main/assets/profile-pic.png?raw=true" align="center" style="width: 50%" />
 </div>  
   
 

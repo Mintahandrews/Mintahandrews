@@ -73,9 +73,18 @@
 
   <div style="max-width: 1000px; margin: 20px auto;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-snake.svg">
-      <img alt="github-snake" src="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-snake.svg" />
+      <source
+        srcset="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-contribution-grid-snake-dark.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-contribution-grid-snake.svg"
+        media="(prefers-color-scheme: light)"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-contribution-grid-snake.svg"
+      />
     </picture>
   </div>
 </div>

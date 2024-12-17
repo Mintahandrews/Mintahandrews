@@ -1,172 +1,141 @@
 <div align="center">
-<img src="https://github.com/Mintahandrews/portfolio/blob/main/assets/profile-pic.png?raw=true" align="center" style="width: 35%" />
-</div>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&duration=3000&pause=999999999&color=2196F3&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Andrews+Mintah" alt="Typing SVG" />
   
-
-### <div align="center">I'm codemintah, a full-time full-stack freelance developer 👨‍💻 freelancer since 2022. And student of Central University. 🚀</div>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%8C%90+Backend+Developer;%F0%9F%9B%A0%EF%B8%8F+Building+Digital+Solutions;%F0%9F%8C%B1+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
   
+  <div style="display: flex; align-items: flex-start; justify-content: space-between; margin: 20px;">
+    <div style="flex: 1; text-align: left; margin-right: 20px;">
+      <p style="font-size: 16px; line-height: 1.6;">
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="Wave"> Welcome to my GitHub profile! I'm also known as <strong>codemintah</strong> 👨‍💻
+        <br><br>
+        🎓 <strong>Software Developer</strong> dedicated to creating impactful solutions
+        <br>
+        💼 Currently crafting innovative software solutions
+        <br>
+        🚀 Exploring cutting-edge technologies and best practices
+        <br>
+        🌱 Committed to continuous learning and professional growth
+        <br>
+        ⚡ Fun fact: I transform ☕️ into <code>&lt;elegant_code /&gt;</code>
+      </p>
+    </div>
+    <div style="flex: 1; text-align: right;">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer" width="400px" />
+    </div>
+  </div>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/mintahandrews)  
-  
-
-- 🌱 I’m currently learning Kotlin.  
-  
-
-- ❓ Ask me about anything related to fullstack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  <div style="margin: 20px 0;">
+    <a href="https://github.com/mintahandrews?tab=repositories">
+      <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" alt="Repos"/>
+    </a>
+    <a href="https://github.com/mintahandrews?tab=followers">
+      <img src="https://custom-icon-badges.demolab.com/github/followers/mintahandrews?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Followers"/>
+    </a>
+    <a href="https://github.com/mintahandrews">
+      <img src="https://komarev.com/ghpvc/?username=mintahandrews&style=for-the-badge&color=blue" alt="Profile Views"/>
+    </a>
+  </div>
 </div>
 
-</td><td valign="top" width="33%">
+## 🏆 GitHub Achievements
 
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mintahandrews&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophy" />
 </div>
 
-</td><td valign="top" width="33%">
+## 💻 Tech Stack
 
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<div align="center">
+  <h3>Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap,tailwind,vercel,netlify" alt="Frontend Skills" />
+  
+  <h3>Backend Development</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,redis,graphql" alt="Backend Skills" />
+  
+  <h3>DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,postman" alt="DevOps Tools" />
 </div>
 
-</td></tr></table>  
+## 📊 GitHub Statistics
 
-<br/>  
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mintahandrews&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mintahandrews&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintahandrews&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+</div>
 
+## 📈 Activity
 
-## Connect with me  
+<div align="center" style="margin: 20px 0;">
+  <div style="max-width: 1200px; margin: 0 auto;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mintahandrews&theme=tokyo-night&hide_border=true&area=true&radius=5" width="100%" alt="Activity Graph" style="margin-bottom: 20px;" />
+  </div>
+
+  <div style="max-width: 1000px; margin: 20px auto;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mintahandrews/mintahandrews/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mintahandrews/mintahandrews/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/mintahandrews/mintahandrews/output/github-contribution-grid-snake.svg" style="width: 100%;" />
+    </picture>
+  </div>
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/andrews-mintah/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mintahandrews" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mintahandrews@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/codemintah" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/mintahandrews" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://mintahandrews.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://codemintah.com" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF4B1F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
 <div align="center">
-<a href="https://twitter.com/virtualversedigital@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/codemintah" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/codemintah" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Mintahandrews" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/codemintah" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/mintahandrews" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mintahandrews" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mintah_andrews" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/codemintah" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/codemintah" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/codemintah" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/codemintah" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <br>
+  <h4>💖 Support My Work</h4>
+  <p>If you find my projects helpful, consider:</p>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://www.buymeacoffee.com/mintahandrews" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+    </a>
+    <a href="https://paypal.me/mintahandrews" target="_blank">
+      <img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/44_Grey_PayPal_Pill_Button.png" alt="PayPal" height="50px">
+    </a>
+  </div>
+</div>
+
+<div align="center">
+  <br>
+  <h4>💖 If you like my projects, Give them ⭐ and Share them!</h4>
   
+```javascript
+const codemintah = {
+  title: "✨ Software Developer ✨",
+  skills: {
+    frontend: ["⚛️ React", "▲ Next.js", "💪 TypeScript", "💛 JavaScript", "🌐 HTML/CSS", "🎨 TailwindCSS", "▲ Vercel", "🌐 Netlify"],
+    backend: ["💚 Node.js", "🚂 Express", "🍃 MongoDB", "🐬 MySQL", "⚡ Supabase", "🔴 Redis", "📊 GraphQL"],
+    devOps: ["🐙 Git", "🐳 Docker", "☸️ Kubernetes", "🐧 Linux", "💻 VSCode", "🔄 Postman"]
+  },
+  currentFocus: "🏗️ Building scalable and robust applications",
+  challenge: "🚀 #100DaysOfCode - Advanced TypeScript & System Design"
+};
+```
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mintahandrews&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mintahandrews&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/Mintahandrews1" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/codemintah" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a>
-            <a href="https://ko-fi.com/mintahandrews" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>

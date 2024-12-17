@@ -19,16 +19,6 @@ jobs:
         with:
           github_user_name: mintahandrews
           svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'blue'
-
-      - uses: Platane/snk@master
-        id: snake-gif-dark
-        with:
-          github_user_name: mintahandrews
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: 'blue'
-          color_snake: '#2196F3'
-          color_dots: '#2d333b, #444c56, #39d353, #26a641, #006d32'
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3.1.0

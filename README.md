@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap,tailwind,vercel,netlify" alt="Frontend Skills" />
   
   <h3>Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,redis,graphql" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,redis,graphql,python,django,postgresql" alt="Backend Skills" />
   
   <h3>DevOps & Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,postman" alt="DevOps Tools" />
@@ -129,7 +129,7 @@ const codemintah = {
   title: "✨ Software Developer ✨",
   skills: {
     frontend: ["⚛️ React", "▲ Next.js", "💪 TypeScript", "💛 JavaScript", "🌐 HTML/CSS", "🎨 TailwindCSS", "▲ Vercel", "🌐 Netlify"],
-    backend: ["💚 Node.js", "🚂 Express", "🍃 MongoDB", "🐬 MySQL", "⚡ Supabase", "🔴 Redis", "📊 GraphQL"],
+    backend: ["💚 Node.js", "🚂 Express", "🍃 MongoDB", "🐬 MySQL", "⚡ Supabase", "🔴 Redis", "📊 GraphQL", "🐍 Python", "🌐 Django", "🐘 PostgreSQL"],
     devOps: ["🐙 Git", "🐳 Docker", "☸️ Kubernetes", "🐧 Linux", "💻 VSCode", "🔄 Postman"]
   },
   currentFocus: "🏗️ Building scalable and robust applications",

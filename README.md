@@ -107,6 +107,9 @@
   <a href="https://medium.com/@mintah_andrews" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  <a href="https://codemintah.me" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF4B1F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <div align="center">

@@ -92,26 +92,20 @@
 ## 🤝 Connect With Me
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/andrews-mintah/" target="_blank">
+  <a href="https://www.linkedin.com/in/mintah-andrews/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mintahandrews" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:mintahandrews@gmail.com">
+  <a href="mailto:codemintah@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/codemintah" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/mintahandrews" target="_blank">
+  <a href="https://dev.to/codemintah" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://mintahandrews.medium.com" target="_blank">
+  <a href="https://medium.com/@mintah_andrews" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://codemintah.com" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF4B1F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -120,10 +114,10 @@
   <h4>💖 Support My Work</h4>
   <p>If you find my projects helpful, consider:</p>
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://www.buymeacoffee.com/mintahandrews" target="_blank">
+    <a href="https://www.buymeacoffee.com/codemintah" target="_blank">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
     </a>
-    <a href="https://paypal.me/mintahandrews" target="_blank">
+    <a href="https://www.paypal.com/paypalme/Mintahandrews1" target="_blank">
       <img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/44_Grey_PayPal_Pill_Button.png" alt="PayPal" height="50px">
     </a>
   </div>

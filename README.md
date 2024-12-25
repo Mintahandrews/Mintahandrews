@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&duration=3000&pause=999999999&color=2196F3&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Andrews+Mintah" alt="Typing SVG" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%8C%90+Backend+Developer;%F0%9F%9B%A0%EF%B8%8F+Building+Digital+Solutions;%F0%9F%8C%B1+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%8C%90+FullStack+Developer;%F0%9F%9B%A0%EF%B8%8F+Building+Digital+Solutions;%F0%9F%8C%B1+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
   
   <div style="display: flex; align-items: flex-start; justify-content: space-between; margin: 20px;">
     <div style="flex: 1; text-align: left; margin-right: 20px;">

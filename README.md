@@ -3,28 +3,26 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%8C%90+FullStack+Developer;%F0%9F%9B%A0%EF%B8%8F+Building+Digital+Solutions;%F0%9F%8C%B1+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
   
-  <table border="0">
-    <tr>
-      <td width="55%" align="left" valign="top">
-        <p style="font-size: 16px; line-height: 1.6;">
-          <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="Wave"> Welcome to my GitHub profile! I'm also known as <strong>codemintah</strong> 👨‍💻
-          <br><br>
-          🎓 <strong>Software Developer</strong> dedicated to creating impactful solutions
-          <br>
-          💼 Currently crafting innovative software solutions
-          <br>
-          🚀 Exploring cutting-edge technologies and best practices
-          <br>
-          🌱 Committed to continuous learning and professional growth
-          <br>
-          ⚡ Fun fact: I transform ☕️ into <code>&lt;elegant_code /&gt;</code>
-        </p>
-      </td>
-      <td width="45%" align="right" valign="middle">
-        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; align-items: flex-start; justify-content: space-between; margin: 20px;">
+    <div style="flex: 1; text-align: left; margin-right: 20px;">
+      <p style="font-size: 16px; line-height: 1.6;">
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="Wave"> Welcome to my GitHub profile! I'm also known as <strong>codemintah</strong> 👨‍💻
+        <br><br>
+        🎓 <strong>Software Developer</strong> dedicated to creating impactful solutions
+        <br>
+        💼 Currently crafting innovative software solutions
+        <br>
+        🚀 Exploring cutting-edge technologies and best practices
+        <br>
+        🌱 Committed to continuous learning and professional growth
+        <br>
+        ⚡ Fun fact: I transform ☕️ into <code>&lt;elegant_code /&gt;</code>
+      </p>
+    </div>
+    <div style="flex: 1; text-align: right;">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer" width="400px" />
+    </div>
+  </div>
 
   <div style="margin: 20px 0;">
     <a href="https://github.com/mintahandrews?tab=repositories">
@@ -60,32 +58,35 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mintahandrews&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mintahandrews&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintahandrews&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mintahandrews&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="390" src="https://streak-stats.demolab.com/?user=mintahandrews&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintahandrews&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 ## 📈 Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mintahandrews&theme=tokyo-night&hide_border=true&area=true&radius=5" width="100%" alt="Activity Graph" />
-  <br><br>
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-contribution-grid-snake-dark.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-contribution-grid-snake.svg"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+<div align="center" style="margin: 20px 0;">
+  <div style="max-width: 1200px; margin: 0 auto;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mintahandrews&theme=tokyo-night&hide_border=true&area=true&radius=5" width="100%" alt="Activity Graph" style="margin-bottom: 20px;" />
+  </div>
+
+  <div style="max-width: 1000px; margin: 20px auto;">
+    <picture>
+      <source
+        srcset="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-contribution-grid-snake-dark.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-contribution-grid-snake.svg"
+        media="(prefers-color-scheme: light)"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/Mintahandrews/Mintahandrews/output/github-contribution-grid-snake.svg"
+      />
+    </picture>
+  </div>
 </div>
 
 ## 🤝 Connect With Me
@@ -115,20 +116,20 @@
   <br>
   <h4>💖 Support My Work</h4>
   <p>If you find my projects helpful, consider:</p>
-  <a href="https://www.buymeacoffee.com/codemintah" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.paypal.com/paypalme/Mintahandrews1" target="_blank">
-    <img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/44_Grey_PayPal_Pill_Button.png" alt="PayPal" height="50">
-  </a>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://www.buymeacoffee.com/codemintah" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+    </a>
+    <a href="https://www.paypal.com/paypalme/Mintahandrews1" target="_blank">
+      <img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/44_Grey_PayPal_Pill_Button.png" alt="PayPal" height="50px">
+    </a>
+  </div>
 </div>
 
 <div align="center">
   <br>
   <h4>💖 If you like my projects, Give them ⭐ and Share them!</h4>
-</div>
-
+  
 ```javascript
 const codemintah = {
   title: "✨ Software Developer ✨",
@@ -142,6 +143,5 @@ const codemintah = {
 };
 ```
 
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>

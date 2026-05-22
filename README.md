@@ -58,10 +58,15 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mintahandrews&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img width="390" src="https://streak-stats.demolab.com/?user=mintahandrews&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintahandrews&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mintahandrews&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=mintahandrews&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</div>
+
+<div align="center" style="margin-top: 16px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mintahandrews&theme=tokyonight" alt="Top Languages by Repo" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mintahandrews&theme=tokyonight" alt="Top Languages by Commit" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mintahandrews&theme=tokyonight&utcOffset=0" alt="Productive Time" height="180"/>
 </div>
 
 ## 📈 Activity
